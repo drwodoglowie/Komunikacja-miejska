@@ -1,1 +1,3 @@
 # Komunikacja-miejska
+Gdańsk słynie z niekompetentnej i niepunktualnej obsługi komunikacij miejskiej. W niniejszym katalogu zbieram dane opisujące zgodność przyjazdów tutejszych autobusów i tramwajów z rozkładem jazdy. Dane mają służyć również do deonstracji komunikacji z programami statystycznymi i numerycznymi, takimi jak R i Matlab.
+Gdańsk is famous for its incompetent and untimely public transport service. In this catalog, I collect data describing the compliance of arrivals of local buses and trams with the timetable. The data is also intended to be used to deonstrate communication with statistical and numerical programs such as R and Matlab. 
